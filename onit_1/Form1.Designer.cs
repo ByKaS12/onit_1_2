@@ -884,7 +884,7 @@
             this.comboBox_SimmAlg.FormattingEnabled = true;
             this.comboBox_SimmAlg.Items.AddRange(new object[] {
             "AES",
-            "3DES"});
+            "DES"});
             this.comboBox_SimmAlg.Location = new System.Drawing.Point(117, 13);
             this.comboBox_SimmAlg.MaxDropDownItems = 10;
             this.comboBox_SimmAlg.Name = "comboBox_SimmAlg";
